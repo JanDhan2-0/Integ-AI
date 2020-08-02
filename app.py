@@ -56,4 +56,4 @@ def sentiment_score(tokenizer = tokenizer, model = model, maxlen=30):
 
 if __name__ == '__main__':
 	port = int(os.environ.get("PORT"))
-	app.run(host='0.0.0.0',port=port)
+	app.run(host='0.0.0.0',port=port, threaded=False)
