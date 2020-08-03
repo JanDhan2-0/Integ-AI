@@ -62,8 +62,8 @@ def sentiment_score(tokenizer = tokenizer, model = model, maxlen=30):
 @app.route('/notification', methods=['GET','POST'])
 def notification():
 
-	reviews = request.form['text']
-	reviews = ast.literal_eval(reviews)
+	reviews = request.json['feedbacks']
+	# reviews = ast.literal_eval(reviews)
 
 	res = {}
 
