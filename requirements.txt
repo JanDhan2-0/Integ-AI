@@ -26,7 +26,7 @@ MarkupSafe==1.1.1
 nltk==3.5
 numpy
 opt-einsum
-pandas==1.1.0
+pandas
 protobuf==3.12.4
 python-dateutil==2.8.1
 pytz==2020.1
