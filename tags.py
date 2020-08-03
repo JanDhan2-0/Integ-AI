@@ -10,7 +10,7 @@ warnings.filterwarnings(action = 'ignore')
   
 from gensim.models import Word2Vec 
 
-model = Word2Vec.load('find_tags.model')
+model = Word2Vec.load('model/find_tags.model')
 tags = ['atm','service','security','branch']
 
 def get_top_three(word, model=model):

@@ -1,0 +1,13 @@
+Sentence,Sentiment,Tags
+Very bad behaviour of the employees and unprofessional. Will never go for SBI.,negative,[]
+I went to the ATM to collect cash but out of order. Very poor service by State Bank of India.,negative,"['atm', 'service']"
+"ATM Problem not being adressed by the staff. Not able to get servives by the bank. Worst Bank, don't go to SBI.",negative,['atm']
+My grievance was addressed by the staff. Really happy. Best Bank. Love SBI.,positive,[]
+Employee conduct not acceptable. Very rude and inefficient. Always short of 2000 Rs note.,negative,[]
+Best services in UP. Very good conduct of the employees and extremely helpful. Recommended for all,positive,['service']
+ATM is always out of cash and causes inconvenience. Request to fix this problem soon as is creating problems.,negative,['atm']
+SBI is awesome. SBI is next level. I am SBI fanboy ,positive,[]
+"Very Good Bank, highly recommended. Work done very quickly and nicely.",positive,[]
+Worst ATM in Muzzafarnagar and is always out of service. Will not recommend it and not suitable.,negative,['atm']
+Good services and good conduct of employees. Work completed very quickly.,positive,['service']
+ATM is nicely maintained and always proper.,positive,['atm']
